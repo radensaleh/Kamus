@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kamus</string>
+    <string name="in_to_en">Indonesian - English</string>
+    <string name="en_to_in">English - Indonesian</string>
+    <string name="word_input">Word Input</string>
+    <string name="description">Description</string>
+    <string name="nomina">/ka·mus/</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="app_first_run">first_run</string>
+    <string name="waiting">Please Waiting</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

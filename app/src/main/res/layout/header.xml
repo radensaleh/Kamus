@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="170dp"
+    android:orientation="vertical"
+    android:background="@color/colorLightBlue"
+    android:padding="@dimen/dimen20">
+
+    <ImageView
+        android:layout_width="@dimen/dimen75"
+        android:layout_height="@dimen/dimen75"
+        android:layout_marginTop="@dimen/dimen5"
+        android:src="@drawable/bookmark" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        android:textSize="@dimen/dimen18"
+        android:fontFamily="sans-serif-smallcaps"
+        android:layout_marginTop="@dimen/dimen10"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nomina"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:textStyle="italic"
+        android:textSize="@dimen/dimen12" />
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_intoen"
+        android:icon="@drawable/ic_translate_black_24dp"
+        android:title="@string/in_to_en" />
+
+    <item
+        android:id="@+id/navigation_entoin"
+        android:icon="@drawable/ic_translate_black_24dp"
+        android:title="@string/en_to_in" />
+
+</menu>
